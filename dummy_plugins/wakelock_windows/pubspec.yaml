@@ -1,0 +1,13 @@
+name: wakelock_windows
+description: Dummy plugin to satisfy wakelock dependency on Windows
+version: 0.0.1
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.12.0 <4.0.0'
+
+flutter:
+  plugin:
+    platforms:
+      windows:
+        pluginClass: DummyWakelockWindows
