@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "wakelock_windows"
+  ],
+  "packages": [
+    {
+      "name": "wakelock_windows",
+      "version": "0.0.1",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

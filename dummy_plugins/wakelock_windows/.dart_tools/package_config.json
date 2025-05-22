@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "wakelock_windows",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.8.0",
+  "flutterRoot": "file:///C:/flutter/flutter",
+  "flutterVersion": "3.32.0",
+  "pubCache": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache"
+}
